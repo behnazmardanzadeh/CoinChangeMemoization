@@ -4,24 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d4a2062-bdbb-49d3-9948-e9e669fa51a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algocoding/Main.java" afterDir="false" />
+    <list default="true" id="9d4a2062-bdbb-49d3-9948-e9e669fa51a4" name="Changes" comment="Initial Commit.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algocoding/MaxHeightRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algocoding/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/algocoding/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="90405d39-e72d-417b-9ed6-f7b46cc5fa44" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,10 +39,50 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/BehnazKnowledge/CoinChangeRecursive",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.algocoding" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MaxHeightRunner">
+    <configuration name="MaxHeightRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algocoding.MaxHeightRunner" />
+      <module name="CoinChangeMemozation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algocoding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algocoding.Runner" />
+      <module name="CoinChangeMemozation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algocoding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxHeightRunner" />
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,8 +91,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723016055860</updated>
-      <workItem from="1723016057370" duration="721000" />
+      <workItem from="1723016057370" duration="2129000" />
+      <workItem from="1723018212698" duration="8868000" />
+      <workItem from="1723169410264" duration="6605000" />
+      <workItem from="1723440206853" duration="641000" />
+      <workItem from="1724619426496" duration="1198000" />
+      <workItem from="1724849252524" duration="11985000" />
+      <workItem from="1725030598058" duration="726000" />
+      <workItem from="1725116938953" duration="1808000" />
+      <workItem from="1726061947141" duration="1653000" />
+      <workItem from="1726146956477" duration="4464000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit.">
+      <created>1723016927225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723016927225</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,6 +125,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Initial Commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
