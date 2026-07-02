@@ -1,4 +1,4 @@
-package org.algocoding;
+package org.algocoding.justforfun;
 
 import java.io.BufferedReader;
 import java.io.IOException;
